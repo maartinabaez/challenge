@@ -1,0 +1,39 @@
+main{
+    background-color: #3d615b;
+}
+.boxPrincipal{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: stretch;
+}
+
+#chart{
+    margin-top: 1em;
+}
+
+navColor{
+    background-color: #cfbaf0;
+}
+
+/* Text*/
+.principal{
+    font-size: 4em;
+    font-family: 'Montserrat', sans-serif, SemiBold 600;
+    color: #e1d2a9;
+    text-align: center;
+}
+
+.title{
+    font-size: 2em;
+    font-family: 'Montserrat', sans-serif, Regular 400;
+    color: #e1d2a9; 
+    text-align: justify;
+}
+
+.texts{
+    font-size: 1.5em;
+    font-family: 'Montserrat', sans-serif, Regular 400;
+    color: #5c735e;
+}
